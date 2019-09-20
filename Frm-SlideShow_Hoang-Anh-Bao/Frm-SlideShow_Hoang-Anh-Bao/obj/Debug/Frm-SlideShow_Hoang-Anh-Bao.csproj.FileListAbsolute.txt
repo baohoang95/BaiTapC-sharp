@@ -1,0 +1,9 @@
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\bin\Debug\Frm-SlideShow_Hoang-Anh-Bao.exe.config
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\bin\Debug\Frm-SlideShow_Hoang-Anh-Bao.exe
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\bin\Debug\Frm-SlideShow_Hoang-Anh-Bao.pdb
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\obj\Debug\Frm-SlideShow_Hoang-Anh-Bao.csprojResolveAssemblyReference.cache
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\obj\Debug\Frm_SlideShow_Hoang_Anh_Bao.Form1.resources
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\obj\Debug\Frm_SlideShow_Hoang_Anh_Bao.Properties.Resources.resources
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\obj\Debug\Frm-SlideShow_Hoang-Anh-Bao.csproj.GenerateResource.Cache
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\obj\Debug\Frm-SlideShow_Hoang-Anh-Bao.exe
+c:\users\hoang anh nghia\documents\visual studio 2015\Projects\Frm-SlideShow_Hoang-Anh-Bao\Frm-SlideShow_Hoang-Anh-Bao\obj\Debug\Frm-SlideShow_Hoang-Anh-Bao.pdb
