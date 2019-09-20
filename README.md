@@ -1,8 +1,2 @@
-# NHOM4
-#NHÓM 4: .NET FRAMEWORK
-THÀNH VIÊN:
-1. Nguyễn Thị Hiếu Giang (nhóm trưởng)
-2. Hoàng Anh Bảo
-3. Nguyễn Thùy Linh
-4. Lê Thái Sang
-5. Lê Ngọc Nghĩa
+# .NET FRAMEWORK | BÀI TÂP: VIẾT CHƯƠNG TRÌNH TRÌNH CHIẾU ẢNH | SLIDE SHOW IMAGE 
+# SV THỰC HIỆN : HOÀNG ANH BẢO - 16T1021006
